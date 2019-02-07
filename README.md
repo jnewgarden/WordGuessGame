@@ -1,0 +1,2 @@
+# WordGuessGame
+essentially hangman
